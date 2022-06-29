@@ -24,9 +24,11 @@ const schemes = [
     id: 'lyftColors',
     label: 'Lyft Colors',
     colors: [
-      '#EA0B8C',
-      '#6C838E',
-      '#29ABE2',
+      '#299ED3',
+      '#2B995E',
+      '#F7961D',
+      '#D9D9D9',
+      '#042F63',
     ],
   },
 ].map(s => new CategoricalScheme(s));
