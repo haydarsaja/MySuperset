@@ -37,7 +37,7 @@ const schemes = [
     ],
   },
   {
-    id: 'sircloClors',
+    id: 'sircloColors',
     label: 'Sirclo Color',
     colors: [
       '#299ED3',
