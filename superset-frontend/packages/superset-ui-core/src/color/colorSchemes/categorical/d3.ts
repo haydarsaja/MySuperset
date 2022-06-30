@@ -37,8 +37,8 @@ const schemes = [
     ],
   },
   {
-    id: 'd3Category20',
-    label: 'D3 Category 20',
+    id: 'testing bapack bisa ni',
+    label: 'testing bapack bisa ni',
     colors: [
       '#1f77b4',
       '#aec7e8',
