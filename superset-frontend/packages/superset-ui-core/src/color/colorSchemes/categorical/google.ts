@@ -39,13 +39,7 @@ const schemes = [
   {
     id: 'sircloColors',
     label: 'Sirclo Color',
-    colors: [
-      '#299ED3',
-      '#2B995E',
-      '#F7961D',
-      '#D9D9D9',
-      '#042F63',
-    ],
+    colors: ['#299ED3','#2B995E','#F7961D','#D9D9D9','#042F63'],
   },
 ].map(s => new CategoricalScheme(s));
 
